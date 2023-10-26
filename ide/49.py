@@ -7,3 +7,4 @@ preferences['Bob']['oranges'] += 1
 preferences['Charlie']['apples'] += 1
 
 print(preferences)
+{Хуйло заебал, я устал}
